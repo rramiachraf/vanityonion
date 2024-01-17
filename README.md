@@ -1,4 +1,5 @@
-#VanityOnion
+# VanityOnion
+Generate V3 Onion addresses with ease.
 
 ```bash
 [user]$ ./vanityonion tor
